@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
 <a href="https://twitter.com/mustafaakguldev">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/mustafaakgul/mustafaakgul/tree/master/icons/twitter.png" />
+  <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/mustafaakgul/mustafaakgul/tree/master/icons/twitter.png" />
 </a>
 
 🏡 [website][website] **|** 
