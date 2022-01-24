@@ -40,16 +40,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mustafaakgul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustafaakguldev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mustafaakguldev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17994076/mustafa-akg%c3%bcl)
-
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📰 [newsletter][newsletter] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+[![Website](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mustafaakguldev/)
+[![GitHub](icons/github.png)](https://github.com/mustafaakgul)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
