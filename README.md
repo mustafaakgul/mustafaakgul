@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt="Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
@@ -37,10 +35,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/mustafaakgul/mustafaakgul/tree/master/icons/twitter.png" />
 </a>
 
-🏡 [website][website] **|** 
-[![Website]()](https://www.mustafaakgul.io/)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mustafaakguldev/)
-[![GitHub](icons/github.png)](https://github.com/mustafaakgul)
+🏡 [website][https://www.mustafaakgul.io/] **|** 
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
