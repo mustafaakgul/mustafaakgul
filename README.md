@@ -8,12 +8,12 @@ I am a developer who likes to code and who is passionate about making software a
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Finance App on Django
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, Testing
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with IoT&Blockchain integration.
 - 💬 Ask me about Software Development
 - 📫 How to reach me: https://www.linkedin.com/in/mustafaakguldev/
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Science
 
 ## Skills and Experience
