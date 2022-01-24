@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Backend Developer
+#### Backend Developer, Software Architect candidate
 
 I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
