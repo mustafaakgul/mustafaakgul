@@ -17,17 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Science
 
 ## Skills and Experience
-* .Net
-* .Net Core
-* Junior Gopher
-* T-SQL or NoSQL
-* JavaScript, HTML, CSS
-* MongoDB
-* eBA Workflow 
+* incoming Feature
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mustafaakgul)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:mustafaakguldev@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
@@ -41,10 +35,10 @@ Here are some ideas to get you started:
 </a>
 
 🏡 [website][website] **|** 
-[![Website](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
+[![Website]()](https://www.mustafaakgul.io/)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mustafaakguldev/)
 [![GitHub](icons/github.png)](https://github.com/mustafaakgul)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/mustafaakguldev)
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
