@@ -33,12 +33,15 @@ Here are some ideas to get you started:
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
+<a href="https://twitter.com/mustafaakguldev">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/mustafaakgul/mustafaakgul/tree/master/icons/twitter.png" />
+</a>
 
 🏡 [website][website] **|** 
 [![Website]()](https://www.mustafaakgul.io/)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mustafaakguldev/)
 [![GitHub](icons/github.png)](https://github.com/mustafaakgul)
-[![Twitter](icons/twitter.png)](https://twitter.com/mustafaakguldev)
+[![Twitter](icons/twitter.png)]()
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
