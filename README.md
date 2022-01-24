@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=mustafaakgul)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="mailto:mustafaakguldev@gmail.com">
+<!--<a href="mailto:mustafaakguldev@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
@@ -34,8 +34,13 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mustafaakguldev">
   <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/mustafaakgul/mustafaakgul/tree/master/icons/twitter.png" />
 </a>
+🏡 [website][https://www.mustafaakgul.io/] **|** -->
 
-🏡 [website][https://www.mustafaakgul.io/] **|** 
+<a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
