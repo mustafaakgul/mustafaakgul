@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 [![Website]()](https://www.mustafaakgul.io/)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mustafaakguldev/)
 [![GitHub](icons/github.png)](https://github.com/mustafaakgul)
-[![Twitter](icons/twitter.png)]()
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [atlassian]: https://atlassian.com
