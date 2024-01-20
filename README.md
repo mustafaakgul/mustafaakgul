@@ -7,9 +7,9 @@ I am a developer who likes to code and who is passionate about making software a
 
 - 🔭 I’m currently working on Python, Java and My GitHub Transformation
 - 🔨 Github Transformation Project involves reviewing and revising all repositories.
-    * All Repos will be made private.
+    * All Repos will be made private
     * Revision
-    * Repository will be made public iteratively following rework.
+    * Repository will be made public iteratively following rework
 - 🌱 I’m currently learning Architecture and Design Patterns
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Fintech & Blockchain integration.
