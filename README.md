@@ -5,9 +5,9 @@ I am a developer who likes to code and who is passionate about making software a
 
 **mustafaakgul/mustafaakgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Python and Java
+- 🔭 I’m currently working on Python, Java and My GitHub Transformation
 - 🌱 I’m currently learning Architecture and Design Patterns
-- 👯 I’m looking to collaborate on Github
+- 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Fintech & Blockchain integration.
 - 💬 Ask me about Software Development
 - 📫 How to reach me: https://www.linkedin.com/in/mustafaakguldev/
